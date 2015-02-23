@@ -2,5 +2,5 @@
  A simple bitmap converter
  
  Collaborators (Classmates):
- Tricia Buckenberger
+ Tricia Buckenberger,
  Sam Hamm
