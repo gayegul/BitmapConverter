@@ -1,6 +1,6 @@
-# BitmapConverter
+# bitmapConverter
  A simple bitmap converter
  
- Collaborators (Classmates):
+ Authors (Classmates):
  Tricia Buckenberger,
  Sam Hamm
